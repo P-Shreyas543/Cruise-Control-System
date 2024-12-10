@@ -18,7 +18,7 @@ This project implements an adaptive cruise control system for vehicles. The syst
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/3ebbf005-f449-4e89-b1e3-5a534347fc20" width="48%" />
-  <img src="https://github.com/user-attachments/assets/3b70a224-c6e2-4cc2-a265-dec3e0570349" width="48%" />
+  
 </div>
 
 ## Cloud Dashboard
