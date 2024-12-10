@@ -18,13 +18,13 @@ This project implements an adaptive cruise control system for vehicles. The syst
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/3ebbf005-f449-4e89-b1e3-5a534347fc20" width="48%" />
-  
+  <img src="https://github.com/user-attachments/assets/ca284875-acdc-4054-a0de-0706b814ca53" width="48%" />
 </div>
 
 ## Cloud Dashboard
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/ca284875-acdc-4054-a0de-0706b814ca53" width="48%" />
+  <img src="https://github.com/user-attachments/assets/3b70a224-c6e2-4cc2-a265-dec3e0570349" width="48%" />
   <img src="https://github.com/user-attachments/assets/fd148bae-8a61-41c3-8111-e08d49f7ead3" width="48%" />
 </div>
 
